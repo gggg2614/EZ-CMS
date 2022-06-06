@@ -1,2 +1,1 @@
-# EZ-CMS
-An ez CMS
+An EZ CMS
